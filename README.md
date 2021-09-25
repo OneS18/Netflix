@@ -1,4 +1,4 @@
-View project live: https://sergiusnetflix.netlify.app/   ;
+<h1>live</h1>: https://sergiusnetflix.netlify.app/   ;
 
 
 pics: 
