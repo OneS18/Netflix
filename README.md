@@ -1,4 +1,12 @@
-<h1>live</h1>: https://sergiusnetflix.netlify.app/   ;
+<h3>Netflix Clone</h3>
+<p>View project Live: https://netflix-5cc.pages.dev/ </p>
+
+<h4>Introduction</h4>
+
+<p>In this app you can scroll through movies and if you want to see the trailer you can click on one of them and actually see the trailer</p>
+<p>I use axios to fetch the data from  https://api.themoviedb.org/3</p>
+<p>and movie-trailer for helping me  showing the trailer when you click</p>
+
 
 
 pics: 
